@@ -1,5 +1,6 @@
 #folders
 old/
+test/
 
 #files to ignore
 sotu*.csv
