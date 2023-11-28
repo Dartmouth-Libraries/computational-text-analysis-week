@@ -1,0 +1,6 @@
+ipywidgets==8.1.1
+langchain==0.0.326
+openai==0.28.1
+python-dotenv==1.0.0
+tiktoken==0.5.1
+unstructured==0.10.30

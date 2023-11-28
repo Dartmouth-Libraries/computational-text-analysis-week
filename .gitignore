@@ -1,3 +1,10 @@
+#folders
+old/
+
+#files to ignore
+sotu*.csv
+stylometry.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +15,8 @@ old/
 
 # C extensions
 *.so
+
+
 
 # Distribution / packaging
 .Python
