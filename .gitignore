@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #folders
 old/
 
@@ -5,6 +6,11 @@ old/
 sotu*.csv
 stylometry.ipynb
 
+=======
+#folders to ignore
+old/
+
+>>>>>>> session-01-redo
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
